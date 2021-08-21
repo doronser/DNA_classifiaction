@@ -22,7 +22,7 @@ ATGACGGCTGATCAGGTGTTTAACCAAGTGCTGCCTGAAGCTTACAAGCTT...
 
 The main challenge was the varying length of sequences:
 
-<img src="imgs/seq_len.png" width="75%" height="75%">
+<img src="imgs/seq_len.jpg" width="75%" height="75%">
 
 
 
@@ -42,7 +42,7 @@ The information we seek to learn from DNA sequences comes mostly in the form of 
 ## Results
 The trained network reached a validation accuracy of 96%.
 
-<img src="imgs/train_res.png" width="80%" height="80%">
+<img src="imgs/train_res.jpg" width="80%" height="80%">
  
 It is important to note that validation set metrics seems to be much better than the train set metrics. This can ber explained by the relatively high dropout rate and by the small size of the validation set.
 
