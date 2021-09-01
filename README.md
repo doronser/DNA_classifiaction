@@ -46,7 +46,9 @@ The trained network reached a validation accuracy of 96%.
  
 It is important to note that validation set metrics seems to be much better than the train set metrics. This can ber explained by the relatively high dropout rate and by the small size of the validation set.
 
-Results on the test set are TBD...
+**Results on the test**
+
+I scored 76.8% accuracy, which is not bad but the winner got an 88.8%. Given that the winner was a Bionformatics PHD student, I can be pretty proud of the results :)
 
 
 ## License
